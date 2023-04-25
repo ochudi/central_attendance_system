@@ -1,6 +1,6 @@
 # Contributing to Central Attendance System
 
-Thank you for your interest in contributing to Central Attendance System! We welcome any contributions that improve the project and benefit its users. Please take a moment to review the guidelines for contributing to this project.
+Thank you for your interest in contributing to Central Attendance System! I welcome any contributions that improve the project and benefit its users. Please take a moment to review the guidelines for contributing to this project.
 
 ## Getting Started
 
@@ -24,11 +24,11 @@ I welcome pull requests that address issues or implement new features. Before su
 
 ## Code Style
 
-Please adhere to the existing code style when contributing to the project. We recommend using an IDE that supports automatic code formatting to ensure consistency.
+Please adhere to the existing code style when contributing to the project. I recommend using an IDE that supports automatic code formatting to ensure consistency.
 
 ## Code Review
 
-All pull requests will be reviewed by a project maintainer. Please be patient while waiting for your pull request to be reviewed. We may request changes or ask for clarification before merging your changes.
+All pull requests will be reviewed by a project maintainer. Please be patient while waiting for your pull request to be reviewed. I may request changes or ask for clarification before merging your changes.
 
 ## License
 
